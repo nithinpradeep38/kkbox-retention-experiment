@@ -1,0 +1,11 @@
+feature,coefficient
+has_visible_transaction,-0.9837
+auto_renew_at_checkpoint,-0.6499
+ever_cancelled,0.6392
+transaction_count,-0.4737
+amount_paid_at_checkpoint,0.3204
+active_days,-0.2803
+avg_daily_streams,-0.1804
+ever_zero_paid,0.1573
+tenure_days,-0.0821
+completion_rate,-0.0614

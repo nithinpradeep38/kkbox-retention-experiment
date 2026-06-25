@@ -1,0 +1,5 @@
+signal,churn_rate,comparison,comparison_rate
+auto_renew_OFF,29.48,ON,3.81
+ever_cancelled,27.21,never,5.59
+ever_zero_paid,35.27,never,6.11
+has_no_transaction,84.29,has_txn,6.26

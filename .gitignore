@@ -1,0 +1,17 @@
+# Raw data
+*.csv
+*.parquet
+*.dbc
+
+# Exceptions — small pre-computed outputs for the app ARE committed
+!app/data/*.csv
+!local_preprocessing/*.py
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+# OS
+.DS_Store
