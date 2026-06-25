@@ -23,7 +23,7 @@ segment-targeted business recommendation — built on the
 
 ## Architecture
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/architecture.svg)
 
 ---
 
